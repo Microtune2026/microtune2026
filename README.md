@@ -45,8 +45,6 @@ Install python (min is 3.10, tested with 3.10.12).
 
 Run `pip install -r requirements.txt`
 
-Download the datasets from here: https://drive.google.com/drive/folders/1BTJKq_UNeFyLUtVeXmhft5aMG1Uimz5I?usp=sharing
-
 
 ## Run Exploration phase
 
